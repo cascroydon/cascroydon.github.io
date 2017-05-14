@@ -1,3 +1,3 @@
-# Computing at School Croydon hub
+A site for members of Croydon's Computing At School hub to share ideas and resources.
 
-Welcome to Croydon's Computing at School hub website
+* [HTML](HTML)
