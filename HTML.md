@@ -7,8 +7,11 @@ To read and write HTML, students must be able to:
 * read and reproduce HTML keywords without introducing spelling errors
 * create, move, and rename files including file extensions
 
-It would also be helpful if students can:
-* copy and paste text
+It is helpful, but not essential, if students can:
+* drag select text with the mouse
+* copy and paste text with keys or menu options
+* indent lines consistently
+* use case (upper and lower case characters) consistently
 
 ## Learning resources
 
