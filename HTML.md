@@ -45,14 +45,20 @@ This site provides in depth tutorials and references on web development language
 ### Thimble ([link](https://thimble.mozilla.org/en-GB/))
 This is a web service that allows you to create web projects within your browser.
 
+|---
+| Pros | Cons |
+|---
+| Cloud storage | Embeds remix link |
+| Share links | Requires account |
+
 ### trinket ([link](https://trinket.io))
 This is another web service for hosting, sharing, and live editing HTML and CSS (among other languages).
 
 |---
 | Pros | Cons |
 |---
-| Cloud storage | Embeds project |
-| Share links |
+| Cloud storage | Embeds in trinket page |
+| Share links | Requires account |
 
 ### CodePen ([link](http://codepen.io/))
 This is a web service for testing and live editing HTML, CSS, and Javascript.
