@@ -28,7 +28,7 @@ Technical challenges:
 
 ## Teaching resources {#teaching}
 
-### Mozilla Learning Network [link](https://learning.mozilla.org/en-US/activities)
+### Mozilla Learning Network ([link](https://learning.mozilla.org/en-US/activities))
 There are many learning activities detailed here including unplugged activities. The site also provides online tools for students to create web projects of their own within the browser.
 
 ### Computerphile [link](https://www.youtube.com/user/Computerphile)
