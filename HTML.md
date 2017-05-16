@@ -54,7 +54,7 @@ A modern, open source text editor that understands HTML and CSS syntax.
 | Pros | Cons |
 |---
 | Cross platform | Needs install |
-| Live preview | |
+| Live preview |
 
 
 ### [Notepad++]()
