@@ -116,7 +116,7 @@ A browser extension that allows users to examine a web page by clicking on an ar
 
 ## Projects {#projects}
 
-### Interactive fiction
+### Interactive fiction ([link](IF))
 Interactive fiction mixes play with traditional storytelling. This is a great way to practice understanding and constructing hypertext documents.
 
 ### Memes ([link](https://learning.mozilla.org/en-US/activities/madewithcode-meme/))
