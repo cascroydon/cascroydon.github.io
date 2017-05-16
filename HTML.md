@@ -2,10 +2,10 @@
 
 ## Contents
 * [Prerequisites](#prereq)
-* [Teaching resources]()
-* [Learning resources]()
-* [Tools]()
-* [Projects]()
+* [Teaching resources](#teaching)
+* [Learning resources](#learning)
+* [Tools](#tools)
+* [Projects](#projects)
 
 ## Prerequisites {#prereq}
 
@@ -22,8 +22,8 @@ It is helpful, but not essential, if students can:
 
 ## Teaching resources {#teaching}
 
-### [Computerphile]()
-A Youtube channel dedicated to computing topics. They have a series on the history of HTML from its roots as an SGML application.
+### [Computerphile](https://www.youtube.com/user/Computerphile)
+A Youtube channel dedicated to computing topics. They have a [series on the history of HTML](https://www.youtube.com/watch?v=RH0o-QjnwDg&list=PLzH6n4zXuckqTQBIEuBTyjsO-Ef7562_Z) from its roots as an SGML application. You might find this background useful for context.
 
 
 ## Learning resources {#learning}
@@ -50,9 +50,10 @@ This is a web service for testing and live editing HTML, CSS, and Javascript.
 ### [Brackets](http://brackets.io/)
 A modern, open source text editor that understands HTML and CSS syntax.
 |---
-|Pros|Cons|
-|Cross platform|Needs install|
-|Live preview||
+| Pros | Cons |
+|---
+| Cross platform | Needs install |
+| Live preview | |
 
 
 ### [Notepad++]()
