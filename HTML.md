@@ -50,6 +50,8 @@ This is a web service that allows you to create web projects within your browser
 |---
 | Cloud storage | Embeds remix link |
 | Share links | Requires account |
+| Integrated tutorials | Slow to update |
+| Teaching resources | Requires Firefox |
 
 ### trinket ([link](https://trinket.io))
 This is another web service for hosting, sharing, and live editing HTML and CSS (among other languages).
@@ -61,7 +63,7 @@ This is another web service for hosting, sharing, and live editing HTML and CSS 
 | Share links | Requires account |
 
 ### CodePen ([link](http://codepen.io/))
-This is a web service for testing and live editing HTML, CSS, and Javascript.
+This is another web service for testing and live editing HTML, CSS, and Javascript.
 
 |---
 | Pros | Cons |
@@ -78,7 +80,7 @@ A modern, open source text editor that understands HTML and CSS syntax.
 | Pros | Cons |
 |---
 | Cross platform | Needs install |
-| Live preview | Chrome only |
+| Live preview | Preview in Chrome only |
 
 
 ### Notepad++ ([link](https://notepad-plus-plus.org/))
@@ -117,7 +119,7 @@ A browser extension that allows users to examine a web page by clicking on an ar
 ## Projects {#projects}
 
 ### Interactive fiction ([link](IF))
-Interactive fiction mixes play with traditional storytelling. This is a great way to practice understanding and constructing hypertext documents.
+Interactive fiction mixes play with traditional storytelling. This is a great way to practice understanding markup and constructing hypertext documents.
 
 ### Memes ([link](https://learning.mozilla.org/en-US/activities/madewithcode-meme/))
-Memes are a currently popular form of Internet joke. They are usually made from an image and a humerous caption. This is a fun way to learn about embedding images into web pages, changing fonts, styles, and placing text.
+Memes are a currently popular form of [Internet joke](https://thimbleprojects.org/paulsinnett/272396/). They are usually made from an image and a humerous caption. This is a fun way to learn about embedding images into web pages, changing fonts, styles, and placing text.
