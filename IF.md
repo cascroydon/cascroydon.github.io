@@ -22,9 +22,12 @@ First break your story into the major decision points. Each decision point forms
 ## HTML file framework
 
 Each passage will require an HTML file. Each HTML file will follow a simple structure:
+
     <!DOCTYPE html>
     <html>
         <body>
-            <p>Passage description...</p>
+            <p>You are offered the following choice&hellip;</p>
+            <p><a href="money.html">Take the money</a></p>
+            <p><a href="box.html">Open the box</a></p>
         </body>
     </html>
