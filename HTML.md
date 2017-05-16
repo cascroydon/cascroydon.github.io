@@ -22,23 +22,22 @@ It is helpful, but not essential, if students can:
 
 ## Teaching resources {#teaching}
 
+### [Mozilla Learning Network](https://learning.mozilla.org/en-US/activities)
+There are many learning activities detailed here including unplugged activities. The site also provides online tools for students to create web projects of their own within the browser.
+
 ### [Computerphile](https://www.youtube.com/user/Computerphile)
 A Youtube channel dedicated to computing topics. They have a [series on the history of HTML](https://www.youtube.com/watch?v=RH0o-QjnwDg&list=PLzH6n4zXuckqTQBIEuBTyjsO-Ef7562_Z) from its roots as an SGML application. You might find this background useful for context.
-
-
-## Learning resources {#learning}
 
 ### [w3schools.com](https://www.w3school.com/)
 This site provides in depth tutorials and references on web development languages such as HTML, CSS, Javascript, PHP, and SQL.
 
-|---
-| Pros | Cons |
-|---
-| Extensive resource | Daunting |
+## Learning resources {#learning}
 
+### [Thimble](https://thimble.mozilla.org/en-GB/)
+This is a web service that allows you to create web projects within your browser.
 
 ### [trinket](https://trinket.io)
-This is a web service for hosting, sharing, and live editing HTML and CSS (among other languages).
+This is another web service for hosting, sharing, and live editing HTML and CSS (among other languages).
 
 |---
 | Pros | Cons |
@@ -95,4 +94,5 @@ A browser extension that allows users to examine a web page by clicking on an ar
 ### Interactive fiction
 Interactive fiction mixes play with traditional storytelling. This is a great way to practice understanding and constructing hypertext documents.
 
-### Memes
+### [Memes](https://learning.mozilla.org/en-US/activities/madewithcode-meme/)
+Memes are a currently popular form of Internet joke. They are usually made from an image and a humerous caption. This is a fun way to learn about embedding images into web pages, changing fonts, styles, and placing text.
