@@ -49,6 +49,7 @@ This is a web service for testing and live editing HTML, CSS, and Javascript.
 
 ### [Brackets](http://brackets.io/)
 A modern, open source text editor that understands HTML and CSS syntax.
+
 |---
 | Pros | Cons |
 |---
