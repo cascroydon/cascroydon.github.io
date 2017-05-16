@@ -30,20 +30,30 @@ A Youtube channel dedicated to computing topics. They have a [series on the hist
 
 ### [w3schools.com](https://www.w3school.com/)
 This site provides in depth tutorials and references on web development languages such as HTML, CSS, Javascript, PHP, and SQL.
-|Pros|Cons|
+
+|---
+| Pros | Cons |
+|---
+| Extensive resource | Daunting |
 
 
 ### [trinket](https://trinket.io)
 This is a web service for hosting, sharing, and live editing HTML and CSS (among other languages).
-|Pros|Cons|
-|Cloud storage|Embeds project|
-|Share links||
+
+|---
+| Pros | Cons |
+|---
+| Cloud storage | Embeds project |
+| Share links |
 
 ### [CodePen](http://codepen.io/)
 This is a web service for testing and live editing HTML, CSS, and Javascript.
-|Pros|Cons|
-|Cloud storage|Limited files|
-|Share links|Hides boilerplate|
+
+|---
+| Pros | Cons |
+|---
+| Cloud storage | Limited files |
+| Share links | Hides boilerplate |
 
 ## Tools {#tools}
 
@@ -54,22 +64,35 @@ A modern, open source text editor that understands HTML and CSS syntax.
 | Pros | Cons |
 |---
 | Cross platform | Needs install |
-| Live preview |
+| Live preview | Chrome only |
 
 
 ### [Notepad++]()
-|Pros|Cons|
-|Syntax highlighting||
+
+|---
+| Pros | Cons |
+|---
+| Syntax highlighting | Needs install |
 
 ### Notepad
-: Windows plain text editor
+Windows built in plain text editor provides a good fallback if all else fails.
 
-### [X-ray goggles]()
+|---
+| Pros | Cons |
+|---
+| Comes with Windows | Basic editing |
+
+### [X-ray goggles](https://goggles.mozilla.org/)
 A browser extension that allows users to examine a web page by clicking on an area they are interested in and exposing the HTML code that produces it. They can also modify the content in the browser to see the effect it has on the page.
-|Pros|Cons|
-|
+
+|---
+| Pros | Cons |
+|---
+| Exposes HTML | Compatibility issues |
 
 ## Projects {#projects}
 
 ### Interactive fiction
 Interactive fiction mixes play with traditional storytelling. This is a great way to practice understanding and constructing hypertext documents.
+
+### Memes
