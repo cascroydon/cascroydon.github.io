@@ -1,6 +1,13 @@
 # Teaching HTML
 
-## Prerequisites
+## Contents
+* [Prerequisites](#prereq)
+* [Teaching resources]()
+* [Learning resources]()
+* [Tools]()
+* [Projects]()
+
+## Prerequisites {#prereq}
 
 To read and write HTML, students must be able to:
 * type with a computer keyboard, including use of code symbols such as `< > { } & ; = " ' !`
@@ -13,22 +20,54 @@ It is helpful, but not essential, if students can:
 * indent lines consistently
 * use case (upper and lower case characters) consistently
 
-## Learning resources
+## Teaching resources {#teaching}
 
-[w3schools.com](https://www.w3school.com/)
-: tutorials and references on web development languages such as HTML, CSS, Javascript, PHP, and SQL
+### [Computerphile]()
+A Youtube channel dedicated to computing topics. They have a series on the history of HTML from its roots as an SGML application.
 
-[trinket](https://trinket.io)
-: web service for hosting, sharing, and live editing HTML and CSS (among other languages)
 
-[CodePen](http://codepen.io/)
-: web service for testing and live editing HTML, CSS, and Javascript
+## Learning resources {#learning}
 
-## Tools
+### [w3schools.com](https://www.w3school.com/)
+This site provides in depth tutorials and references on web development languages such as HTML, CSS, Javascript, PHP, and SQL.
+|Pros|Cons|
 
-[Brackets](http://brackets.io/)
-: a modern, open source text editor that understands HTML and CSS syntax
 
-Notepad
+### [trinket](https://trinket.io)
+This is a web service for hosting, sharing, and live editing HTML and CSS (among other languages).
+|Pros|Cons|
+|Cloud storage|Embeds project|
+|Share links||
+
+### [CodePen](http://codepen.io/)
+This is a web service for testing and live editing HTML, CSS, and Javascript.
+|Pros|Cons|
+|Cloud storage|Limited files|
+|Share links|Hides boilerplate|
+
+## Tools {#tools}
+
+### [Brackets](http://brackets.io/)
+A modern, open source text editor that understands HTML and CSS syntax.
+|---
+|Pros|Cons|
+|Cross platform|Needs install|
+|Live preview||
+
+
+### [Notepad++]()
+|Pros|Cons|
+|Syntax highlighting||
+
+### Notepad
 : Windows plain text editor
 
+### [X-ray goggles]()
+A browser extension that allows users to examine a web page by clicking on an area they are interested in and exposing the HTML code that produces it. They can also modify the content in the browser to see the effect it has on the page.
+|Pros|Cons|
+|
+
+## Projects {#projects}
+
+### Interactive fiction
+Interactive fiction mixes play with traditional storytelling. This is a great way to practice understanding and constructing hypertext documents.
