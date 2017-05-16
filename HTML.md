@@ -31,6 +31,9 @@ Technical challenges:
 ### Mozilla Learning Network ([link](https://learning.mozilla.org/en-US/activities))
 There are many learning activities detailed here including unplugged activities. The site also provides online tools for students to create web projects of their own within the browser.
 
+### Coder Dojo ([link](http://kata.coderdojo.com/wiki/HTML_Path))
+Coder Dojo provide some downloadable PDF resources for beginner HTML projects. The are designed to work in clubs with fairly minimal resource requirements.
+
 ### Computerphile ([link](https://www.youtube.com/user/Computerphile))
 A Youtube channel dedicated to computing topics. They have a [series on the history of HTML](https://www.youtube.com/watch?v=RH0o-QjnwDg&list=PLzH6n4zXuckqTQBIEuBTyjsO-Ef7562_Z) from its roots as an SGML application. You might find this background useful for context.
 
@@ -87,6 +90,15 @@ Windows built in plain text editor provides a good fallback if all else fails.
 | Pros | Cons |
 |---
 | Comes with Windows | Basic editing |
+
+### TextEdit
+This is the Mac built in plain text editor. This is usable but hides the HTML by default.
+
+|---
+| Pros | Cons |
+|---
+| Comes with Mac | Needs reconfiguring |
+
 
 ### X-ray goggles ([link](https://goggles.mozilla.org/))
 A browser extension that allows users to examine a web page by clicking on an area they are interested in and exposing the HTML code that produces it. They can also modify the content in the browser to see the effect it has on the page.
