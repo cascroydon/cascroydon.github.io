@@ -21,7 +21,7 @@ It is helpful, but not essential, if students can:
 * use case (upper and lower case characters) consistently
 
 Technical challenges:
-* internal school web hosting
+* hosting on a school web server
 * site and script blocking
 * installing editors
 * hidden file extensions
