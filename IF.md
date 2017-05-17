@@ -15,6 +15,7 @@ After completing this activity students should be able to:
 * describe the purpose of a markup language
 * design a branching story
 * create a hypertext document
+* practise writing in the second person
 
 ## Prerequisites {#prereq}
 
@@ -65,6 +66,8 @@ Each passage will require a HTML file. Each HTML file will follow a simple struc
     </html>
     
 By convention, your start HTML page will be named `index.html`. After this each linked HTML page will need a unique name. Note, that links will be case sensitive so a good rule is to make all page file names lower case. If a file needs a longer name, use single dash characters to separate words, e.g. `donate-money.html`.
+
+Typically you will write descriptive passages in the second person.
 
 ## Challenges {#challenges}
 
