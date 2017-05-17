@@ -7,6 +7,7 @@
 * [Writing](#writing)
 * [Challenges](#challenges)
 * [Testing](#testing)
+* [Competition](#compo)
 
 ## Learning Objectives {#learning}
 
@@ -75,4 +76,8 @@ There are many ways to expand this activity for more advanced students:
 
 ## Testing {#testing}
 
-After completing their projects, students should get their peers to play their games. This will help them to discover bugs and issues with comprehension.
+After completing their projects, students should get their peers to play their games. This will help them to discover bugs and issues with comprehension. Peers can provide feedback which students can address and this cycle can repeat until they are happy with their work.
+
+## Competition {#compo}
+
+There is an annual [interactive fiction competition](https://ifcomp.org/). I would encourage students who find this activity rewarding to enter their work.
