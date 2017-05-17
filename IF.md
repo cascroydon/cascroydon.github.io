@@ -8,6 +8,7 @@
 * [Challenges](#challenges)
 * [Testing](#testing)
 * [Competition](#compo)
+* [Example](#example)
 
 ## Learning Objectives {#learning}
 
@@ -84,3 +85,7 @@ After completing their projects, students should get their peers to play their g
 ## Competition {#compo}
 
 There is an annual [interactive fiction competition](https://ifcomp.org/). I would encourage students who find this activity rewarding to enter their work.
+
+## Example {#example}
+
+Here is an example interactive fiction based on the Brothers Grimm tale <a href="TheWhiteSnake">The White Snake</a>. This version does include some CSS styles and a custom font, but other than that is plain HTML. The source files are available in <a href="https://github.com/cascroydon/TheWhiteSnake">this GitHub project</a>.
