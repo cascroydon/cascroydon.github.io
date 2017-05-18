@@ -37,7 +37,7 @@ Coder Dojo provide some downloadable PDF resources for beginner HTML projects. T
 ### Computerphile ([link](https://www.youtube.com/user/Computerphile))
 A Youtube channel dedicated to computing topics. They have a [series on the history of HTML](https://www.youtube.com/watch?v=RH0o-QjnwDg&list=PLzH6n4zXuckqTQBIEuBTyjsO-Ef7562_Z) from its roots as an SGML application. You might find this background useful for context.
 
-### w3schools.com ([link](https://www.w3school.com/))
+### w3schools.com ([link](https://www.w3schools.com/))
 This site provides in depth tutorials and references on web development languages such as HTML, CSS, Javascript, PHP, and SQL.
 
 ## Learning resources {#learning}
